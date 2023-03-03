@@ -24,6 +24,4 @@ NB: Round to the nearest whole number. Create a new tab in your workbook for eac
 # Setup
 Download and Use Microsoft Excel 2016
 # App Execution
-
-# Author
-David Kojo Kenyarko
+Run Excel on Mac or Windows
