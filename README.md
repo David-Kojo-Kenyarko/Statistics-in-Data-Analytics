@@ -22,6 +22,8 @@ NB: Round to the nearest whole number. Create a new tab in your workbook for eac
 
 6. Is the assumption that Graduate degree holders purchase more bikes compared to high school leavers true?
 # Setup
+Download and Use Microsoft Excel 2016
 # App Execution
+
 # Author
 David Kojo Kenyarko
